@@ -1,0 +1,30 @@
+Alquiler -> 16700 Maikel                                          ***Maikel -> 40000  Marialina -> 15000****
+Gastos Comunes -> 4000 Maikel
+UTE -> 4000 -> Mikel 
+Wifi -> 1805
+---------------------
+Total = 26505 fijo
+
+
+Carne -> 3000 Marialina
+Intendencia -> 1000 Marialina
+---------------------
+Total = 40000 fijo (ojo intendencia no siempre un mes si y otro no)
+
+
+
+Salidad -> 8000 (Maikel | Marialina) 4000 (una pagada cada uno) 
+Comida Semanal -> 4800 (Maikel | Marialina) 2400 (una pagada cada uno)
+Aseo -> 1200  (Maikel | Marialina) 600 (una pagada cada uno)
+---------------------------
+Total = 12000 aleatorio
+
+
+Gastos por persona: 
+--------------------------
+Maikel -> 33505 -> (40000 - 33505 = 6495)
+--------------------------
+Marialina -> 11000 -> (15000 - 11000 = 4000)
+
+
+
