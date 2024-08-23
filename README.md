@@ -8,7 +8,7 @@ FTP server
 
 ## Instalation
 
-1. Clone repo ssh: `git clone git@github.com:Proyectos-MBI-YAF/fiber-backend.git`
+1. Clone repo ssh: `git clone git@github.com:MBI-88/ftp.git`
 2. Move on root dir: `cd ftp`
 3. Dependencies: `go mod download `
 
